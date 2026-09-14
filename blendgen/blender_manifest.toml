@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+
+id = "blendgen"
+version = "1.0.0"
+name = "BlendGen"
+tagline = "Synthetic object-detection dataset generation"
+maintainer = "Abdul Hakeem, Syed Muhammad Faseeh, Zouhair Azam Khan"
+type = "add-on"
+tags = ["Render", "Object"]
+blender_version_min = "4.0.0"
+license = ["SPDX:GPL-3.0-or-later"]
